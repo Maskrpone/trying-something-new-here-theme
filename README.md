@@ -24,5 +24,9 @@ mv trying-something-here-xfwm/ $USER/.local/share/theme
 ```bash
 mv trying_something_here/ $USER/.local/share/theme
 ```
+You'll have next to apply it in your settings.<br><br>
+If by any chance the top of window frame is showing some irregularities (like black pixels), it is just the titlebar.<br><br>
+By changing the font and the size of the font of the titlbar, you will make it disappear. Mine is fixed on "Sans bold" size 1. <br><br>
 
-<h2>Cfetch, the fetching tool used in the picture is not of my creation, you can find it <a href="https://github.com/Dyzean/coffee-fetch">here</a></h2>
+<h3>Cfetch, the fetching tool used in the picture is not of my creation, you can find it <a href="https://github.com/Dyzean/coffee-fetch">here</a></h3>
+<h3>I made the xfwm theme based on another xfwm theme that you will find <a href="https://github.com/addy-dclxvi/Xfwm4-Theme-Collections">here</a>.</h3>
