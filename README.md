@@ -1,8 +1,7 @@
-# trying-something-new-here-theme
+# trying something new here theme
 <h3>Gruvbox-inspired theme</h3>
-This theme is for xfce.<br>
-You will find here the global theme and the Window Manager theme<br>
-
+This theme is for xfce.<br><br>
+You will find here the global theme and the Window Manager theme<br><br>
 <img src="demo.png">
 
 <h3>Installation</h2>
@@ -17,7 +16,7 @@ Then cd into the folder :
 ```bash
 cd trying-something-new-here-theme/
 ```
-And last, move the two folder in your theme folder :
+And lastly, move the two folder in your theme folder :
 
 ```bash
 mv trying-something-here-xfwm/ $USER/.local/share/theme
